@@ -1,0 +1,12 @@
+
+{
+  "Lua.runtime.version": "Lua 5.1",
+  "Lua.workspace.library": [
+    "${workspaceFolder}/types"
+  ],
+  "Lua.workspace.checkThirdParty": false,
+  "Lua.diagnostics.globals": [
+    "SLASH_TARGETFORMEFOREVER1"
+  ],
+  "Lua.format.enable": true
+}

@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: TargetForMeForever
+## Notes: Targeting utilities for WoW Forever
+## Author: Amethyst/Stormknight
+## Version: 0.1.0
+
+Core.lua
